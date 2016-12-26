@@ -24,13 +24,13 @@ require_once('vendor/autoload.php');
 
 ### Manual Instalation
 
-If you don't want to use Composer, download the latest version of NefEasy and include the `init.php` file:
+If you don't want to use Composer, download the latest version of **NefEasy** and include the `init.php` file:
 
 ```php
 require_once('/path/to/nfeasy/init.php');
 ```
 
-You will also need to dowload the NfeEasy php dependencies and autoload then 
+You will also need to dowload the **NfeEasy** php dependencies and autoload then 
 manually. See `composer.json` to see NfeEasy dependencies. 
 
 ## How to use
