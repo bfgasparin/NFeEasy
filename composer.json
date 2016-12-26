@@ -3,6 +3,7 @@
     "description": "Easy package to manage NFe resources",
     "license": "MIT",
     "require": {
+        "php": ">=7.0.13",
         "lightools/xml": "^1.0",
         "illuminate/support": "^5.3"
     },
