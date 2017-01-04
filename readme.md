@@ -121,6 +121,7 @@ Attribute        | Type                 | Description
 `xProd`          | string               | Product Description
 `NCM`            | string               | Nomenclatura Comum do Mercosul / Sistema Harmonizado
 `CEST`           | string               |
+`CST`            | string               | Table CST - ICMS
 `CFOP`           | string               | Codigo Fiscal de Operações e Prestações
 `uCom`           | string               | Invoice Number
 `qCom`           | string               | Emission Date
